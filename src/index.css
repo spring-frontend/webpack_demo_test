@@ -1,0 +1,7 @@
+h3 {
+  background-color: yellow;
+}
+.img-wrap {
+  height: 200px;
+  background-image: url('../static/images/abc.jpg');
+}
